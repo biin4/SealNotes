@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a80b933e-a186-484b-a32b-a7093af2db30" name="Changes" comment="Projeto desenvolvido no Senai Zerbini em Campinas - Sp">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projeto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogoPrincipal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogoSealNotes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MiniLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PeopleWorried3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SealNotes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/martina-programming.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +45,40 @@
       <option name="presentableId" value="Default" />
       <updated>1671120938474</updated>
     </task>
+    <task id="LOCAL-00001" summary="Projeto desenvolvido no Senai Zerbini em Campinas - Sp">
+      <created>1671122036202</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671122036202</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Projeto desenvolvido no Senai Zerbini em Campinas - Sp">
+      <created>1671122208338</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671122208338</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Projeto desenvolvido no Senai Zerbini em Campinas - Sp">
+      <created>1671122238748</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671122238748</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Projeto desenvolvido no Senai Zerbini em Campinas - Sp" />
